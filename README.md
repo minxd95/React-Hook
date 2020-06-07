@@ -20,7 +20,7 @@ modifier의 이름은 관습적으로 {set+state의 이름} 이다. (camerCase)
 <Pallete color={color} />
 ```
 
-1. JSX 태그에 props 추가
+1. JSX 태그에 state값을 props로 전달
 
 ```javascript
 const Pallete = styled.div`
